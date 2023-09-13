@@ -26,7 +26,7 @@ An Outlier is an observation in a given dataset that lies far from the rest of t
 ## Code:
 
 ### bhp.csv:
-```python
+```c
 import pandas as pd
 import seaborn as sns
 import numpy as np
